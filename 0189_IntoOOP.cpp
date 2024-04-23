@@ -38,5 +38,6 @@ class MataKuliah {
 
 int main()
 {
-    ;
+    Mahasiswa mhs;
+
 }
