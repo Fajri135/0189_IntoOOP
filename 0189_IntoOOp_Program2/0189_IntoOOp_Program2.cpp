@@ -6,6 +6,8 @@ class bangunDatar {
     // Akses modifier
 private:
     float panjang, lebar;
+public:
+    float luas;
 
 };
 
