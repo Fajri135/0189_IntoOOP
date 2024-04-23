@@ -15,7 +15,8 @@ class Mahasiswa {
 };
 
 class MataKuliah {
-    
+    private:
+
 };
 
 int main()
